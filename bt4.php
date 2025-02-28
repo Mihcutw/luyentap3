@@ -1,31 +1,31 @@
 <?php
 $students = [
-    ["Ho ten" => "Nguyễn Văn A", "Ngày sinh" => "2003-01-10", "Giới tính" => "Nam", "Toán" => 8, "Văn" => 7, "Tiếng Anh" => 9],
-    ["Họ tên" => "Trần Thị B", "Ngày sinh" => "2002-05-12", "Giới tính" => "Nữ", "Toán" => 9, "Văn" => 8, "Tiếng Anh" => 9],
-    ["Họ tên" => "Lê Văn C", "Ngày sinh" => "2004-07-15", "Giới tính" => "Nam", "Toán" => 7, "Văn" => 6, "Tiếng Anh" => 8],
-    ["Họ tên" => "Phạm Thị D", "Ngày sinh" => "2003-09-20", "Giới tính" => "Nữ", "Toán" => 8, "Văn" => 9, "Tiếng Anh" => 10],
-    ["Họ tên" => "Hoàng Thị E", "Ngày sinh" => "2002-08-22", "Giới tính" => "Nữ", "Toán" => 9, "Văn" => 8, "Tiếng Anh" => 10],
-    ["Họ tên" => "Nguyễn Văn F", "Ngày sinh" => "2001-06-10", "Giới tính" => "Nam", "Toán" => 6, "Văn" => 7, "Tiếng Anh" => 7],
-    ["Họ tên" => "Lê Thị G", "Ngày sinh" => "2000-12-15", "Giới tính" => "Nữ", "Toán" => 8, "Văn" => 8, "Tiếng Anh" => 9],
-    ["Họ tên" => "Trần Văn H", "Ngày sinh" => "2002-11-30", "Giới tính" => "Nam", "Toán" => 7, "Văn" => 6, "Tiếng Anh" => 7],
-    ["Họ tên" => "Phạm Thị I", "Ngày sinh" => "2003-04-18", "Giới tính" => "Nữ", "Toán" => 9, "Văn" => 9, "Tiếng Anh" => 9],
-    ["Họ tên" => "Đỗ Văn J", "Ngày sinh" => "2001-09-25", "Giới tính" => "Nam", "Toán" => 6, "Văn" => 6, "Tiếng Anh" => 8],
-    ["Họ tên" => "Nguyễn Thị K", "Ngày sinh" => "2004-02-12", "Giới tính" => "Nữ", "Toán" => 9, "Văn" => 7, "Tiếng Anh" => 9],
-    ["Họ tên" => "Trần Văn L", "Ngày sinh" => "2002-10-05", "Giới tính" => "Nam", "Toán" => 8, "Văn" => 7, "Tiếng Anh" => 8],
-    ["Họ tên" => "Lê Thị M", "Ngày sinh" => "2003-07-17", "Giới tính" => "Nữ", "Toán" => 7, "Văn" => 9, "Tiếng Anh" => 8],
-    ["Họ tên" => "Hoàng Văn N", "Ngày sinh" => "2001-03-20", "Giới tính" => "Nam", "Toán" => 6, "Văn" => 8, "Tiếng Anh" => 7],
-    ["Họ tên" => "Nguyễn Thị O", "Ngày sinh" => "2002-06-08", "Giới tính" => "Nữ", "Toán" => 8, "Văn" => 9, "Tiếng Anh" => 9],
-    ["Họ tên" => "Phạm Văn P", "Ngày sinh" => "2000-09-14", "Giới tính" => "Nam", "Toán" => 7, "Văn" => 6, "Tiếng Anh" => 6],
-    ["Họ tên" => "Trần Thị Q", "Ngày sinh" => "2003-11-28", "Giới tính" => "Nữ", "Toán" => 9, "Văn" => 7, "Tiếng Anh" => 8],
-    ["Họ tên" => "Lê Văn R", "Ngày sinh" => "2001-01-09", "Giới tính" => "Nam", "Toán" => 6, "Văn" => 7, "Tiếng Anh" => 7],
-    ["Họ tên" => "Hoàng Thị S", "Ngày sinh" => "2002-04-25", "Giới tính" => "Nữ", "Toán" => 9, "Văn" => 8, "Tiếng Anh" => 9]
+    ["Ho_ten" => "Nguyen Van A", "Ngay_sinh" => "2003-01-10", "Gioi_tinh" => "Nam", "Toan" => 8, "Van" => 7, "Tieng_Anh" => 9],
+    ["Ho_ten" => "Tran Thi B", "Ngay_sinh" => "2002-05-12", "Gioi_tinh" => "Nu", "Toan" => 9, "Van" => 8, "Tieng_Anh" => 9],
+    ["Ho_ten" => "Le Van C", "Ngay_sinh" => "2004-07-15", "Gioi_tinh" => "Nam", "Toan" => 7, "Van" => 6, "Tieng_Anh" => 8],
+    ["Ho_ten" => "Pham Thi D", "Ngay_sinh" => "2003-09-20", "Gioi_tinh" => "Nu", "Toan" => 8, "Van" => 9, "Tieng_Anh" => 10],
+    ["Ho_ten" => "Hoang Thi E", "Ngay_sinh" => "2002-08-22", "Gioi_tinh" => "Nu", "Toan" => 9, "Van" => 8, "Tieng_Anh" => 10],
+    ["Ho_ten" => "Nguyen Van F", "Ngay_sinh" => "2001-06-10", "Gioi_tinh" => "Nam", "Toan" => 6, "Van" => 7, "Tieng_Anh" => 7],
+    ["Ho_ten" => "Le Thi G", "Ngay_sinh" => "2000-12-15", "Gioi_tinh" => "Nu", "Toan" => 8, "Van" => 8, "Tieng_Anh" => 9],
+    ["Ho_ten" => "Tran Van H", "Ngay_sinh" => "2002-11-30", "Gioi_tinh" => "Nam", "Toan" => 7, "Van" => 6, "Tieng_Anh" => 7],
+    ["Ho_ten" => "Pham Thi I", "Ngay_sinh" => "2003-04-18", "Gioi_tinh" => "Nu", "Toan" => 9, "Van" => 9, "Tieng_Anh" => 9],
+    ["Ho_ten" => "Do Van J", "Ngay_sinh" => "2001-09-25", "Gioi_tinh" => "Nam", "Toan" => 6, "Van" => 6, "Tieng_Anh" => 8],
+    ["Ho_ten" => "Nguyen Thi K", "Ngay_sinh" => "2004-02-12", "Gioi_tinh" => "Nu", "Toan" => 9, "Van" => 7, "Tieng_Anh" => 9],
+    ["Ho_ten" => "Tran Van L", "Ngay_sinh" => "2002-10-05", "Gioi_tinh" => "Nam", "Toan" => 8, "Van" => 7, "Tieng_Anh" => 8],
+    ["Ho_ten" => "Le Thi M", "Ngay_sinh" => "2003-07-17", "Gioi_tinh" => "Nu", "Toan" => 7, "Van" => 9, "Tieng_Anh" => 8],
+    ["Ho_ten" => "Hoang Van N", "Ngay_sinh" => "2001-03-20", "Gioi_tinh" => "Nam", "Toan" => 6, "Van" => 8, "Tieng_Anh" => 7],
+    ["Ho_ten" => "Nguyen Thi O", "Ngay_sinh" => "2002-06-08", "Gioi_tinh" => "Nu", "Toan" => 8, "Van" => 9, "Tieng_Anh" => 9],
+    ["Ho_ten" => "Pham Van P", "Ngay_sinh" => "2000-09-14", "Gioi_tinh" => "Nam", "Toan" => 7, "Van" => 6, "Tieng_Anh" => 6],
+    ["Ho_ten" => "Tran Thi Q", "Ngay_sinh" => "2003-11-28", "Gioi_tinh" => "Nu", "Toan" => 9, "Van" => 7, "Tieng_Anh" => 8],
+    ["Ho_ten" => "Le Van R", "Ngay_sinh" => "2001-01-09", "Gioi_tinh" => "Nam", "Toan" => 6, "Van" => 7, "Tieng_Anh" => 7],
+    ["Ho_ten" => "Hoang Thi S", "Ngay_sinh" => "2002-04-25", "Gioi_tinh" => "Nu", "Toan" => 9, "Van" => 8, "Tieng_Anh" => 9]
 ];
 
-function sapXepTheoTen(&$students) {
+function sapXepTheoTen($students) {
     $n = count($students);
     for ($i = 0; $i < $n - 1; $i++) {
         for ($j = 0; $j < $n - $i - 1; $j++) {
-            if (strcmp($students[$j]["Họ tên"], $students[$j + 1]["Họ tên"]) > 0) {
+            if (strcmp($students[$j]["Ho_ten"], $students[$j + 1]["Ho_ten"]) > 0) {
                 $temp = $students[$j];
                 $students[$j] = $students[$j + 1];
                 $students[$j + 1] = $temp;
@@ -35,21 +35,29 @@ function sapXepTheoTen(&$students) {
 }
 
 foreach ($students as &$student) {
-    $student["Điểm TB"] = ($student["Toán"] + $student["Văn"] + $student["Tiếng Anh"]) / 3;
+    $student["Diem_TB"] = ($student["Toan"] + $student["Van"] + $student["Tieng_Anh"]) / 3;
 }
-unset($student);
 
 function danhSachNu($students) {
-    return array_filter($students, function ($sv) {
-        return $sv["Giới tính"] === "Nữ";
-    });
+    $result = [];
+    foreach ($students as $sv) {
+        if ($sv["Gioi_tinh"] === "Nu") {
+            $result[] = $sv;
+        }
+    }
+    return $result;
 }
 
 function sinhVienDiemCao($students) {
-    return array_filter($students, function ($sv) {
-        return $sv["Điểm TB"] >= 8.0;
-    });
+    $result = [];
+    foreach ($students as $sv) {
+        if ($sv["Diem_TB"] >= 8.0) {
+            $result[] = $sv;
+        }
+    }
+    return $result;
 }
+
 
 sapXepTheoTen($students);
 echo "<pre>";
@@ -61,7 +69,7 @@ function nuDiemCaoNhat($students) {
     if (empty($nữ)) return null;
     $maxNu = reset($nữ);
     foreach ($nữ as $sv) {
-        if ($sv["Điểm TB"] > $maxNu["Điểm TB"]) {
+        if ($sv["Diem_TB"] > $maxNu["Diem_TB"]) {
             $maxNu = $sv;
         }
     }
